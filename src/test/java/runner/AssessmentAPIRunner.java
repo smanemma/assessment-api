@@ -14,5 +14,5 @@ import org.junit.runner.RunWith;
         strict = true
 )
 
-public class AssesmentAPIRunner {
+public class AssessmentAPIRunner {
 }
